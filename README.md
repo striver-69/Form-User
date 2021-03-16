@@ -17,7 +17,6 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ cd ../Task-Manager_API-MAIN
 $ npm install
 $ npm start
 ```
